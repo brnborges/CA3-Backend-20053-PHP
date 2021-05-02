@@ -39,7 +39,7 @@ It is a project that you have the option of including cars in the same way as a 
 
 ## :camera_flash: Screenshots
 
-![Main](https://user-images.githubusercontent.com/60415859/116728749-314e9700-a9de-11eb-8e32-8d50f7f70e8c.png)
-![List](https://user-images.githubusercontent.com/60415859/116728745-314e9700-a9de-11eb-8c47-a7632a6433da.png)
-![Edit](https://user-images.githubusercontent.com/60415859/116728746-314e9700-a9de-11eb-8630-6cc063f6be60.png)
-![Delete](https://user-images.githubusercontent.com/60415859/116728744-301d6a00-a9de-11eb-8ad0-beb91bdac9f4.png)
+![Main](https://user-images.githubusercontent.com/60415859/116825362-ee7bf300-ab86-11eb-9082-09982dbbc98f.png)
+![List](https://user-images.githubusercontent.com/60415859/116825365-f0de4d00-ab86-11eb-84b5-4daac98b7c23.png)
+![Edit](https://user-images.githubusercontent.com/60415859/116825368-f2a81080-ab86-11eb-97b9-14f57c72600b.png)
+![Delete](https://user-images.githubusercontent.com/60415859/116825370-f471d400-ab86-11eb-80af-8c596d74a463.png)
