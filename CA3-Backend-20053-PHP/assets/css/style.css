@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'roboto';
+}
+
+h1{
+    color:lightgrey ;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.titulo{
+    color:lightgrey;
+    font-size: 5em;
+    margin-bottom: 0.5em;
+}
+
+.imagem-fundo{
+    background-image: url('../img/2284597.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    height: 100vh;
+}
+
+.layout-cadastro{
+    display: flex;  
+    align-items: center;
+}
+
+.layout-listagem{
+    padding: 2em;
+}
+
+.cor-form{
+    background-color: rgba(26, 26, 26,0.5);
+    padding: 2em;
+    color: lightgrey;
+}
+
+.cor-table{
+    background-color: rgba(26, 26, 26,0.5);
+    padding: 2em;
+    color: aliceblue;
+}
+
+.modal-body{
+    color:black!important;
+}
+
+.card{
+    background-color: rgba(26, 26, 26,0.2);
+    color: aliceblue;
+}
+
+.titulo-form-alteracao{
+    text-align: center;
+    align-items: center;
+}
+
+.titulo-pesquisa{
+    color:lightgrey;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.navbar-nav, .nav-link{
+    color: black;
+    font-size: 1.5rem;
+}
+
+.navbar-nav, .nav-link:hover{
+    color:grey;
+}
+
+
