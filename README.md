@@ -13,7 +13,7 @@
 
 ## :bookmark: About
 
-**Car Registration Form** This is a CRUD application that are the initials of the terms create, request, update and delete.
+**Car Registration Form** This is a CRUD application that are the initials of the terms create, read, update and delete.
 It is a project that you have the option of including cars in the same way as a form with the other options of listing, editing, search by reference and also removal.
 
 <br>
